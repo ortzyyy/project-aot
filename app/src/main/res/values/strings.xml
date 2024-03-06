@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">Attack On Titan</string>
+    <string name="character_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="about">About</string>
+    <string name="name">Orry Frasetyo</string>
+    <string name="email">orryfratyo@gmail.com</string>
+    <string name="tv_title_description">Deskripsi</string>
+    <string name="share">SHARE</string>
+    <string name="motto">\"Shinzou Wo Sasageyo\"</string>
+
+    <string-array name="data_name">
+        <item>Eren Jaeger</item>
+        <item>Levi Ackerman</item>
+        <item>Mikasa Ackerman</item>
+        <item>Hange Zoe</item>
+        <item>Erwin Smith</item>
+        <item>Armin Arlet</item>
+        <item>Reiner Braun</item>
+        <item>Porco Galliard</item>
+        <item>Bertholdt Hoover</item>
+        <item>Ymir</item>
+        <item>Kenny Ackerman</item>
+        <item>Jean Kirschtein</item>
+        <item>Sasha Braus</item>
+        <item>Dot Pyxis</item>
+        <item>Historia Reiss</item>
+
+    </string-array>
+
+    <string-array name="data_description">
+        <item>
+            Protagonis utama yang menjadi pusat cerita anime ini. Dia juga merupakan karakter yang membuat anime Attack on Titan sangat menarik untuk diikuti.
+
+            Pada awal cerita, Eren Jaeger adalah seorang anak kecil yang menyaksikan ibunya dilahap oleh titan secara langsung. Insiden ini kemudian memantik ambisi balas dendam dan kebencian kuat Eren pada semua titan. Untuk membalaskan kematian ibunya, Eren lantas bergabung dengan pasukan pembasmi titan.
+
+            Setelah menjadi prajurit, Eren akhirnya mengetahui rahasia di balik para raksasa yang mengancam keselamatan bangsa Eldia sekaligus eksistensi manusia lain “di seberang lautan” yang menjadi musuh sejati dan harus dimusnahkan.
+
+            Latar belakang inilah yang mengubah Eren menjadi sosok yang haus kekuatan. Sebagai prajurit, Eren mempunyai kemampuan luar biasa dan sangat bisa diandalkan. Berkat ambisi kuatnya, Eren sanggup mengontrol bukan hanya satu titan pendiri, melainkan tiga Attack Titan, Founding Titan, dan War Hammer Titan. Eren juga memiliki kekuatan untuk mengontrol titan lain seperti kakak tirinya, Zeke Jaeger.
+
+            Nah, sepak terjang Eren dalam anime Attack on Titan perlu kamu tonton sampai habis karena ada banyak hal menarik yang terjadi di sekitarnya. Dalam titik tertentu, Eren sama dengan Zeke, berani melakukan apa saja untuk mewujudkan ambisinya namun sifat “peduli pada temannya” tidak pernah hilang sepenuhnya.
+        </item>
+
+        <item>
+            Levi Ackerman, anggota klan ackerman paling kuat sekaligus kapten dari Special Operations Squad yang dapat mengalahkan Beast Titan dengan cepat dalam pertarungan satu lawan satu.
+
+            Levi juga disebut-sebut sebagai prajurit paling kuat sepanjang sejarah dan satu-satunya karakter yang kekuatannya setara dengan 9 titan pendiri. Bahkan, dia bisa mengalahkan titan tanpa bantuan peralatan ODM!
+
+            Di luar itu, kemampuan bertarung dan bertahan hidupnya sangat luar biasa. Levi kecil pernah dilatih oleh Kenny “The Ripper” Ackerman. Berkat kemampuannya, Levi ditakuti oleh semua prajurit Marley, termasuk Zeke yang mengatakan tidak ingin menghadapi Levi di medan pertempuran secara langsung.
+        </item>
+
+        <item>
+            Sama seperti anggota klan ackerman yang lain, Mikasa adalah karakter yang menginginkan kehidupan yang damai. Sayang, takdirnya justru membawa dia pada kehidupan yang keras.
+
+            Tanpa bantuan dari keluarga Eren, Mikasa yang kehilangan kedua orang tuanya sejak kecil mungkin tidak akan bisa bertahan hidup. Oleh karena itu, sejak hidup bersama keluarga Eren, dia bertekad untuk melindungi Eren sepanjang hidupnya.
+
+            Tekad inilah yang membuatnya bergabung dengan Cadet Corps bersama Eren. Sejak itu, darah ackerman yang mengalir dalam tubuhnya menjadikan Mikasa sebagai prajurit yang luar biasa kuat. Bahkan, ada yang menganggap kalau kekuatannya sama dengan 100 orang prajurit biasa.
+
+            Sebagai prajurit, kemampuan mengendalikan peralatan ODM Mikasa berada di atas rata-rata. Dia memiliki kecepatan dan akurasi yang memungkinkannya membasmi banyak titan dalam waktu singkat.
+        </item>
+
+        <item>
+            Attack on Titan termasuk anime yang punya karakter dengan kemampuan luar biasa, salah satunya adalah Hange Zoe. Dia merupakan sosok prajurit sekaligus pemimpin yang mampu berpolitik sekaligus menghabisi para titan..
+
+            Hange juga dikenal sebagai prajurit yang sangat terobsesi untuk meneliti tubuh para Titan, tujuannya agar dia bisa memahami kemampuan luar biasa para raksasa ini. Tanpa sosoknya, revolusi melawan pemerintah di dalam tembok pertahanan bangsa Eldia mungkin hanya mimpi belaka.
+
+            Hange juga diceritakan pernah bertahan selama 6 tahun dalam sebuah ekspedisi “memburu titan” di luar tembok. Ini membuktikan bahwa dirinya memiliki kemampuan bertahan hidup dan membunuh titan yang tidak bisa dianggap remeh.
+        </item>
+
+        <item>
+            Erwin adalah komandan ke-13 pasukan pembasmi titan sekaligus sosok yang bertanggung jawab menghabisi semua titan yang masuk ke dalam benteng pertahanan bangsa Eldia.
+
+            Sebagai komandan, Erwin terkenal dengan kemampuan menyusun strategi dan bisa berbuat apa saja. Namun, dia bukan tipe yang mengorbankan pasukannya demi keberhasilan misi. Sebaliknya, dia justru berani mengorbankan nyawanya.
+        </item>
+        <item>
+            Di season awal anime Attack on Titan, Armin merupakan protagonis utama yang karakternya tidak terlalu menonjol. Tubuhnya kecil, fisiknya lemah dan kemampuan mengontrol ODM-nya jauh dibawah teman-temannya yang lain, sehingga dia jarang ikut terjun ke medan pertempuran.
+
+            Akan tetapi, Armin dianugerahi otak cerdas dan mampu menyusun strategi yang membantu teman-temannya. Tak jarang, anggota pembasmi titan selamat dari medan pertempuran karena strategi yang diciptakan oleh Armin.
+
+            Armin juga menjadi orang yang bisa menemukan mata-mata di dalam prajurit pembasmi titan sebelum perang besar terjadi. Selain itu, Armin berhasil mengalahkan Colossal Titan Bertholdt dan mewarisi <kekuatannya class=""></kekuatannya>
+        </item>
+        <item>
+            Selain Beast Titan dan Founding Titan, Armored Titan merupakan 9 Titan pendiri yang penampilannya sangat menonjol. Begitu pun dengan pemiliknya, Reiner Braun. Baik sebagai titan maupun prajurit, dia adalah sosok yang sangat mengerikan.
+
+            Berkat kemampuannya, Reiner mampu bertarung imbang dengan Eren Jaeger. Bahkan dia bisa memojokkan Eren beberapa kali saat bertemu di medan pertempuran sebagai Titan.
+
+            Sama seperti Porco, Reiner juga mampu memanfaatkan dan memaksimalkan setiap potensi yang dimiliki oleh Armored Titan. Dia bisa memporak-porandakan bangunan dengan kulit tubuhnya yang super sangat keras dan menyulitkan pasukan pembasmi Titan di garis depan.
+        </item>
+        <item>
+            Dari semua pemilik kekuatan Jaw Titan yang diceritakan dalam Attack on Titan, Porco Galliard dianggap sebagai orang yang berhasil memanfaatkan kemampuan penghancurnya.
+
+            Alasannya karena Porco memang sudah disiapkan untuk mewarisi kekuatan Jaw Titan sejak awal. Sebagai hasilnya, dia bisa menjadi prajurit yang tangkas sekaligus mampu mengontrol kekuatan Jaw Titan-nya dengan sangat baik. Bagi musuhnya, dia adalah mimpi buruk paling beringas yang sulit ditaklukan.
+        </item>
+        <item>
+            Dilihat dari penampilannya, Bertholdt bukan karakter yang “villain banget”. Dia cukup pendiam dan tidak punya kemauan kuat, pokoknya di awal kemunculannya kamu tidak akan pernah berpikir bahwa dia adalah pelaku utama yang menghancurkan tembok di distrik Shiganshina.
+
+            Ya, dia adalah pemilik kekuatan Colossal Titan. salah satu dari 9 founding titan yang tingginya mencapai 60 meter dan punya kemampuan untuk mengeluarkan hawa panas dari dalam tubuhnya.
+        </item>
+        <item>
+            Bertahun-tahun sebelum cerita Attack on Titan dimulai, seorang Eldian tunawisma terlibat dengan sebuah sekte dan diberi nama Ymir. Setelah itu, dia dikhianati oleh sekte tersebut dan diubah menjadi titan.
+
+            Ymir titan menghabiskan waktu yang tak sebentar untuk “berkeliaran” di luar tembok pelindung bangsa Eldia. Kesadarannya baru kembali setelah dia melahap Marcel pemilik kekuatan Jaw Titan yang datang bersama Annie, Bertholdt, dan Reiner.
+
+        </item>
+        <item>
+            Jika kamu mengikuti Attack on Titan di setiap season-nya, kamu mungkin menyadari bahwa pada akhirnya manusia jauh lebih membahayakan dibanding para titan. Salah satu manusia paling berbahaya di series ini adalah Kenny Ackermann a.k.a “Kenny The Reaper”.
+
+            Kapten organisasi anti-personnel control squad di polisi militer dan mantan pembunuh berantai ini dikenal sebagai karakter yang tidak memiliki empati sama sekali. Julukannya sendiri berasal dari catatan kriminalnya saat membunuh lebih dari 100 prajurit pembasmi titan.
+
+            Sialnya, dia termasuk petarung pintar yang membuat alat anti personnel peralatan yang dia gunakan untuk melawan Eren dan teman-temannya. Tak berhenti sampai di situ, Kenny The Ripper adalah manusia licik yang tidak ragu menggunakan trik-trik kotor untuk mengalahkan musuhnya.
+        </item>
+        <item>
+            Dibanding yang lain, Jean adalah jenis prajurit yang tidak mempunyai semangat bertarung bahkan sejak pertama bergabung dengan Cadet Corps. Selain itu, berkat bakat alaminya membuat Jean menjadi prajurit penting.
+
+            Dia adalah seorang pemimpin alami yang sangat memperdulikan keselamatan teman-temannya. Saking pedulinya, dia berani membahayakan nyawanya sendiri jika diperlukan. Kemampuan menggunakan peralatan ODM Jean juga tidak bisa dianggap remeh karena tidak seperti prajurit lainnya, Jean bisa bermanuver di medan terbuka dengan sangat baik.
+        </item>
+        <item>
+            Sasha Barus adalah anggota Cadet Corps yang keberadaanya tidak boleh kamu lupakan. Bukan karena kebiasaan makannya atau julukan “gadis kentang” yang dia dapatkan, tapi karena kemampuannya sebagai prajurit tidak bisa dianggap biasa saja.
+
+            Meski awalnya sering malu-malu, Sasha berhasil melatih kemampuan berpikir strategisnya hingga dia bisa menyusun rencana melawan titan tanpa menggunakan ODM. Selain itu, dia juga punya kemampuan memanah, mengendarai kuda, melacak musuh, dan menembak. Semua keahlian ini yang membuat dirinya mampu mengimbangi perkembangan teman-temannya yang lain.
+        </item>
+        <item>
+            Awalnya, Dot Pyxis diperkenalkan sebagai salah satu perwira tinggi dari peleton Garrison yang menjalankan otoritas penuh dalam menjaga pertahanan distrik Trost. Dia pemimpin cerdik yang dapat menumbuhkan dan meningkatkan rasa tanggung jawab prajurit pimpinannya.
+
+            Pyxis juga termasuk pemimpin yang berani mengambil resiko untuk mencapai tujuan utamanya, menghabisi titan yang mengancam manusia. Bahkan, dia tidak ragu untuk mengorbankan anak buahnya saat diperlukan. Dia juga berperan besar untuk menuntun dan mendidik Eren dengan teman-temannya.
+        </item>
+        <item>
+            Historia Reiss adalah salah satu anggota Training Corps yang bertugas melatih prajurit pembasmi titan. Diantara teman-temannya, Historia jadi yang paling kecil, cantik, dan baik hati. Rasa trauma masa kecilnya membuat Historia memandang rendah dirinya sendiri.
+
+            Sifat-sifat ini sering kali mempengaruhi kemampuannya, namun Historia tetap seorang prajurit yang tidak bisa dianggap remeh. Dia menempati rangking 10 saat kelulusan dan menjadi salah satu prajurit yang cepat beradaptasi pada Omni-Directional Mobility (ODM), alat bantuan yang digunakan prajurit pembasmi Titan. Dia juga merupakan keturunan terakhir keluarga Reiss dan menjadi Ratu terakhir bangsa Eldia.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/eren</item>
+        <item>@drawable/levi</item>
+        <item>@drawable/mikasa</item>
+        <item>@drawable/hange</item>
+        <item>@drawable/erwin</item>
+        <item>@drawable/armin</item>
+        <item>@drawable/reiner</item>
+        <item>@drawable/porco</item>
+        <item>@drawable/bertholdt</item>
+        <item>@drawable/ymir</item>
+        <item>@drawable/kenny</item>
+        <item>@drawable/jean</item>
+        <item>@drawable/sasha</item>
+        <item>@drawable/dot</item>
+        <item>@drawable/historia</item>
+
+    </integer-array>
+</resources>
